@@ -1,8 +1,8 @@
-# Introduction
+# Introduction:
 
 State is isolated between components. React keeps track of which state belongs to which component based on their place in the UI tree. You can control when to preserve state and when to reset it between re-renders.
 
-## The golden rule:
+### The golden rule:
 
 React will keep the state around for as long as you render the same component at the same position
 
